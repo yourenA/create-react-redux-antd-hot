@@ -1,0 +1,5 @@
+{
+  "prefix":"http://api.iothub.test.com",
+  "MqttServerHost":"http://mqtt.server.com",
+  "MqttServerPort":"8884"
+}

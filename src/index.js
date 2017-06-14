@@ -8,6 +8,7 @@ import { Provider } from 'react-redux';
 import configureStore from './store/configureStore';
 
 const store = configureStore();
+exports.store  = store;
 console.log("store",store)
 const render = Component =>
     ReactDOM.render(
